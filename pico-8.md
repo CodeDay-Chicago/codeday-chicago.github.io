@@ -17,9 +17,6 @@ One common practice is to fullscreen it behind Pico, like so:
 ## Part 1: the early years
 Tired of complex workflows and high-definition graphics? Well, the Pico-8 fantasy console is here to help. Through the course of this workshop you will make [this](demos/final.html) action game. Along the way you'll learn how to use the Pico console along with the basics of Lua scripting.
 
-<iframe src="demos/final.html" width="100%" height="700px">
-  <image src="pico-assets/final.gif">
-</iframe>
 
 A couple of basic pieces of information about Pico: there are three modes.
 
@@ -634,3 +631,7 @@ Here are some topics that you may want to look in to:
  * Metatables and OOP in Lua
 
 Once you feel like you've achieved Pico-8 mastery, a very worthy game framework to look into is [Love2D](https://love2d.org/). Love is as simple and fun to use as Pico but provides much more freedom.
+
+<iframe src="demos/final.html" width="100%" height="700px">
+  <image src="pico-assets/final.gif">
+</iframe>
