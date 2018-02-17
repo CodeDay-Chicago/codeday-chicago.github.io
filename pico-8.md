@@ -363,7 +363,7 @@ The for loop in this example goes through `drops` and for every value in that ta
 
 ![](pico-assets/spritesheet_rain.png)
 
-Here is what the code would do if drops were equal to `{{0, 0}, {0, 0}, {0, 0}}`:
+Here is what the code would do if drops were equal to `{ {0, 0}, {0, 0}, {0, 0} }`:
 
 ![](pico-assets/for_loop.gif)
 
